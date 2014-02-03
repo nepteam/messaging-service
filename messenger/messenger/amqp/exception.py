@@ -1,0 +1,2 @@
+class UndefinedQueueError(Exception):
+    pass
